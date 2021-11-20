@@ -1,0 +1,9 @@
+[auth]
+token=ee65f6e67a684838b0dbf793389b6041c9698cd0ad8b45138aef7dff517a6001
+
+[defaults]
+url=http://39.105.175.193:9000
+org=sentry
+project=sentry-test-react
+release=0.0.1
+include=./build
